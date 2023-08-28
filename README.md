@@ -19,7 +19,8 @@ Copie e cole o código do arquivo Program.cs neste repositório.
 Compile e execute o programa.
 Siga as instruções fornecidas pelo programa para inserir seu gênero, idade e tempo de contribuição.
 Exemplo de Uso
-![image](image.png)
+![image](https://github.com/luisclaudio29/I-can-retire-now/assets/112020658/aa551214-870d-4c53-b4d0-49b00346f76d)
+
 
 
 Requisitos
