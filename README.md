@@ -1,6 +1,6 @@
 # I-can-retire-now
 
-Certamente! Aqui está um exemplo de um README que você poderia usar para descrever o código anterior:
+
 
 Retirement Age Calculator
 O Retirement Age Calculator é um programa simples em C# que calcula quantos anos faltam para você se aposentar com base no gênero, idade e tempo de contribuição. Ele foi desenvolvido como uma ferramenta para auxiliar no planejamento financeiro da aposentadoria.
